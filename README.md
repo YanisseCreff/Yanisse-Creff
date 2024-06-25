@@ -1,4 +1,4 @@
-![COVER](
+
 # 👋 Hello World !
 
 Hi there I'm Yanisse a a developer in the making🍪 I've been tempted by the idea of ​​working in web developpent for a long time. Eager to learn more,  I started a training with the O'clock School and... here I'm ! 😊
